@@ -1,0 +1,23 @@
+{
+  "name": "SoundCloud",
+  "version": "1.0.0",
+  "description": "soundcloud",
+  "main": "index.js",
+  "author": "Masaya Takeda <844196@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://soundcloud.com/stream",
+    "serviceName": "SoundCloud",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
